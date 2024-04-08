@@ -468,9 +468,12 @@ body{
 
 }
   .ui-container {
-     
+
     grid-template-columns: repeat(2, 1fr);
     
+  }
+  .list-li {
+    margin-bottom: 20px;
   }
   .container-of-custyomers-list{
       display: none;
